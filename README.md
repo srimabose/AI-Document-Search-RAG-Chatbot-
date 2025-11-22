@@ -87,10 +87,6 @@ Access the app at:
 3. Add your `HUGGINGFACE_TOKEN` environment variable
 4. Click "Apply" and wait for deployment
 
-### Manual Deployment
-
-See detailed instructions in [DEPLOYMENT.md](DEPLOYMENT.md)
-
 **Quick Steps:**
 1. Fork/clone this repository
 2. Create a [Render account](https://render.com)
@@ -231,15 +227,8 @@ MIT License - feel free to use this project for personal or commercial purposes.
 
 For issues and questions:
 - Open an issue on GitHub
-- Check [DEPLOYMENT.md](DEPLOYMENT.md) for deployment help
 - Review API docs at `/docs` endpoint
 
-## 🚀 Live Demo
-
-After deployment, your app will be available at:
-- Frontend: `https://your-app.onrender.com`
-- Backend: `https://your-api.onrender.com`
-- API Docs: `https://your-api.onrender.com/docs`
 
 ---
 
