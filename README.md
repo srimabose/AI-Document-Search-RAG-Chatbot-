@@ -2,8 +2,6 @@
 
 A powerful RAG (Retrieval-Augmented Generation) chatbot that lets you chat with your PDF documents using semantic search and AI.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
 ## 🚀 Features
 
 - **Semantic Search** - Find relevant information using sentence embeddings
